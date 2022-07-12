@@ -1,0 +1,112 @@
+2022-07-12T10:20:28+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 79
+
+2022-07-12T10:20:33+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 81
+
+2022-07-12T10:22:29+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 82
+
+2022-07-12T10:22:34+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 82
+
+2022-07-12T10:23:17+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 82
+
+2022-07-12T10:23:17+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 82
+
+2022-07-12T10:23:17+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 82
+
+2022-07-12T10:23:33+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 82
+
+2022-07-12T12:10:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_post_thuumbnail() in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php:9
+Stack trace:
+#0 C:\xamppss\htdocs\test\test\wp-includes\template-loader.php(106): include()
+#1 C:\xamppss\htdocs\test\test\wp-blog-header.php(19): require_once('C:\\xamppss\\htdo...')
+#2 C:\xamppss\htdocs\test\test\index.php(17): require('C:\\xamppss\\htdo...')
+#3 {main}
+  thrown in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 9
+
+2022-07-12T12:19:52+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 26
+
+2022-07-12T12:20:11+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 114
+
+2022-07-12T12:20:13+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 114
+
+2022-07-12T12:20:19+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 114
+
+2022-07-12T15:40:28+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 16
+
+2022-07-12T15:40:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_work_filters() in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php:25
+Stack trace:
+#0 C:\xamppss\htdocs\test\test\wp-includes\template-loader.php(106): include()
+#1 C:\xamppss\htdocs\test\test\wp-blog-header.php(19): require_once('C:\\xamppss\\htdo...')
+#2 C:\xamppss\htdocs\test\test\index.php(17): require('C:\\xamppss\\htdo...')
+#3 {main}
+  thrown in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 25
+
+2022-07-12T15:41:16+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 30
+
+2022-07-12T15:41:41+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 15
+
+2022-07-12T15:41:44+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 15
+
+2022-07-12T15:41:47+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 15
+
+2022-07-12T15:42:27+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 15
+
+2022-07-12T15:42:38+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 15
+
+2022-07-12T15:42:59+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 15
+
+2022-07-12T15:43:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_work_filters() in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php:25
+Stack trace:
+#0 C:\xamppss\htdocs\test\test\wp-includes\template-loader.php(106): include()
+#1 C:\xamppss\htdocs\test\test\wp-blog-header.php(19): require_once('C:\\xamppss\\htdo...')
+#2 C:\xamppss\htdocs\test\test\index.php(17): require('C:\\xamppss\\htdo...')
+#3 {main}
+  thrown in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 25
+
+2022-07-12T15:44:08+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 18
+
+2022-07-12T16:53:48+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ';' or ',' in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 28
+
+2022-07-12T16:59:45+00:00 CRITICAL syntax error, unexpected '<' in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 50
+
+2022-07-12T17:00:21+00:00 CRITICAL syntax error, unexpected '<' in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 42
+
+2022-07-12T17:26:10+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 56
+
+2022-07-12T17:26:16+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 56
+
+2022-07-12T17:26:18+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 56
+
+2022-07-12T17:28:50+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 56
+
+2022-07-12T17:36:50+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 96
+
+2022-07-12T17:36:51+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 96
+
+2022-07-12T17:39:38+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 63
+
+2022-07-12T17:39:39+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 63
+
+2022-07-12T17:39:41+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 63
+
+2022-07-12T17:59:05+00:00 CRITICAL syntax error, unexpected 'to' (T_STRING) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 93
+
+2022-07-12T17:59:05+00:00 CRITICAL syntax error, unexpected 'to' (T_STRING) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 93
+
+2022-07-12T17:59:06+00:00 CRITICAL syntax error, unexpected 'to' (T_STRING) in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\functions.php on line 93
+
+2022-07-12T18:31:10+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 4
+
+2022-07-12T18:40:21+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 44
+
+2022-07-12T18:41:02+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 44
+
+2022-07-12T18:45:51+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 4
+
+2022-07-12T18:46:14+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 4
+
+2022-07-12T18:46:59+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 46
+
+2022-07-12T18:47:15+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 48
+
+2022-07-12T18:51:32+00:00 CRITICAL syntax error, unexpected 'get_footer' (T_STRING), expecting ';' or ',' in C:\xamppss\htdocs\test\test\wp-content\themes\twentytwenty\templates\template-recipe.php on line 48
+
